@@ -6,7 +6,7 @@
 
 Artificial Intelligence (AI) is increasingly being adopted across industries to improve operational efficiency, automate repetitive tasks, and support decision-making. However, organizations still need to understand whether higher AI adoption actually improves employee productivity and work performance.
 
-This project analyzes workforce data to evaluate AI adoption across industries and job roles while investigating its relationship with productivity, work efficiency, and job satisfaction. The findings are intended to support organizations in making evidence-based decisions regarding AI implementation strategies. :contentReference[oaicite:1]{index=1}
+This project analyzes workforce data to evaluate AI adoption across industries and job roles while investigating its relationship with productivity, work efficiency, and job satisfaction. The findings are intended to support organizations in making evidence-based decisions regarding AI implementation strategies.
 
 ---
 
@@ -19,7 +19,7 @@ This analysis aims to answer the following questions:
 3. Does AI adoption significantly influence employee productivity?
 4. Does AI adoption affect job satisfaction?
 5. Does AI adoption improve work efficiency?
-6. What insights can organizations use when planning AI implementation? :contentReference[oaicite:2]{index=2}
+6. What insights can organizations use when planning AI implementation?
 
 ---
 
@@ -35,7 +35,7 @@ Dataset Characteristics:
 - 20 Variables
 - CSV Format
 
-The dataset contains employee demographic information, AI adoption levels, salary information, work performance metrics, productivity changes, job satisfaction, and work efficiency scores. :contentReference[oaicite:3]{index=3}
+The dataset contains employee demographic information, AI adoption levels, salary information, work performance metrics, productivity changes, job satisfaction, and work efficiency scores.
 
 ---
 
@@ -50,7 +50,7 @@ Several preprocessing steps were performed before conducting statistical analysi
 - Recalculated Salary Change (%)
 - Verified Experience Group classifications
 - Checked missing values
-- Ensured consistency across related variables :contentReference[oaicite:4]{index=4}
+- Ensured consistency across related variables
 
 ---
 
@@ -65,7 +65,7 @@ Assessment includes:
 - Data Types ✔
 - Category Consistency ✔
 - Numerical Validation ✔
-- Logical Consistency ✔ :contentReference[oaicite:5]{index=5}
+- Logical Consistency ✔ 
 
 ---
 
@@ -75,15 +75,13 @@ Assessment includes:
 - Python (EDA & Statistical Analysis)
 - Power BI
 
-:contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}
-
 ---
 
 ## 3. Executive Summary
 
 The analysis reveals that AI adoption is relatively balanced across industries, although adoption levels vary considerably by job role. Statistical analysis indicates that higher AI adoption is associated with significantly greater employee productivity and work efficiency.
 
-However, AI adoption does not show a statistically significant relationship with employee job satisfaction. These findings suggest that while AI can improve operational performance, organizations should complement AI implementation with initiatives focused on employee experience and engagement. :contentReference[oaicite:8]{index=8}
+However, AI adoption does not show a statistically significant relationship with employee job satisfaction. These findings suggest that while AI can improve operational performance, organizations should complement AI implementation with initiatives focused on employee experience and engagement.
 
 ---
 
@@ -93,7 +91,7 @@ However, AI adoption does not show a statistically significant relationship with
 
 Healthcare records the highest proportion of High AI Adoption (41.85%), while the IT industry has the largest percentage of Low AI Adoption (35.57%). Manufacturing is primarily characterized by Medium AI Adoption (37.29%).
 
-Overall, AI adoption is relatively balanced across industries, with no industry exceeding 50% in any adoption category. :contentReference[oaicite:9]{index=9}
+Overall, AI adoption is relatively balanced across industries, with no industry exceeding 50% in any adoption category.
 
 ---
 
@@ -109,7 +107,7 @@ Key findings include:
 - Auditors show the highest Low AI Adoption (42.42%)
 - Professors have the highest Medium AI Adoption (42.86%)
 
-These differences indicate that AI implementation depends heavily on job characteristics and work requirements. :contentReference[oaicite:10]{index=10}
+These differences indicate that AI implementation depends heavily on job characteristics and work requirements.
 
 ---
 
@@ -124,7 +122,7 @@ Results:
 
 Because p < 0.05, the null hypothesis was rejected.
 
-Employees with High AI Adoption achieved the highest average productivity improvement (10.96%), indicating that greater AI adoption is associated with increased productivity. :contentReference[oaicite:11]{index=11}
+Employees with High AI Adoption achieved the highest average productivity improvement (10.96%), indicating that greater AI adoption is associated with increased productivity.
 
 ---
 
@@ -136,7 +134,7 @@ Average job satisfaction remains relatively similar across all AI adoption level
 - Medium = 5.99
 - High = 6.03
 
-ANOVA results (F = 0.1571, p = 0.8547) indicate no statistically significant difference in employee job satisfaction among AI adoption groups. :contentReference[oaicite:12]{index=12}
+ANOVA results (F = 0.1571, p = 0.8547) indicate no statistically significant difference in employee job satisfaction among AI adoption groups.
 
 ---
 
@@ -155,7 +153,7 @@ ANOVA confirms the difference is statistically significant:
 - F = 5.5839
 - p = 0.0038
 
-These results suggest a positive relationship between AI adoption and employee work efficiency. :contentReference[oaicite:13]{index=13}
+These results suggest a positive relationship between AI adoption and employee work efficiency.
 
 ---
 
@@ -244,7 +242,6 @@ Customize AI implementation based on operational needs rather than applying a si
 - Industry Comparison
 - Job Role Comparison
 
-*(Insert Power BI Dashboard Screenshot Here)*
 
 ---
 
@@ -266,7 +263,7 @@ Customize AI implementation based on operational needs rather than applying a si
 - Source: Kaggle
 - Dataset: AI Impact on Job Sector
 - Records: 2,000
-- Variables: 20 :contentReference[oaicite:14]{index=14}
+- Variables: 20 
 
 ---
 
