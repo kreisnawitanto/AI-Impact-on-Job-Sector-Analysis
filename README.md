@@ -241,8 +241,7 @@ Customize AI implementation based on operational needs rather than applying a si
 - Work Efficiency
 - Industry Comparison
 - Job Role Comparison
-
-
+<img width="930" height="519" alt="Screenshot 2026-07-16 015321" src="https://github.com/user-attachments/assets/91c975a9-e4ba-4de7-b2b4-c2e82089097b" />
 ---
 
 ## Tools
