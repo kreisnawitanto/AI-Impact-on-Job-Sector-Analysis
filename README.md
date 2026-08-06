@@ -235,12 +235,12 @@ Customize AI implementation based on operational needs rather than applying a si
 
 ### Overview Dashboard
 
-- AI Adoption Distribution
-- Productivity Analysis
-- Job Satisfaction
-- Work Efficiency
-- Industry Comparison
-- Job Role Comparison
+- Workforce Overview
+- Job Status Distribution
+- Automation Risk by Industry
+- Salary Before vs After AI
+- AI Adoption Level Across industries
+- Interactive Filtering
 <img width="930" height="519" alt="Screenshot 2026-07-16 015321" src="https://github.com/user-attachments/assets/91c975a9-e4ba-4de7-b2b4-c2e82089097b" />
 
 ---
